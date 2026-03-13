@@ -16,5 +16,4 @@
 ## 🛠 Technologies
 
 - C
-- R
 - Python
