@@ -1,3 +1,20 @@
-SI (Information Systems) student from UFF (Fluminense Federal University)!! 🤯🤯
+# Miguel Severo Paiva
 
-Currently trying to learn more about Linux and Data Structs in C. 🙂🙂
+🎓 Information Systems student at UFF (Fluminense Federal University)  
+
+💻 Currently studying:
+
+- Linux
+- Data Structures in C
+
+## 🏆 Goals
+
+- Improve my C programming skills
+- Become comfortable with Ubuntu and Fedora
+- Get my first job in tech
+
+## 🛠 Technologies
+
+- C
+- R
+- Python
