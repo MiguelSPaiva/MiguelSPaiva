@@ -6,6 +6,7 @@
 
 - Linux
 - Data Structures in C
+- GitHub
 
 ## 🏆 Goals
 
