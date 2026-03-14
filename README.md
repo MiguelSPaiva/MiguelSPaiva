@@ -2,7 +2,7 @@
 
 🎓 Information Systems student at UFF (Fluminense Federal University)  
 
-💻 Currently studying:
+🧠 Currently studying:
 
 - Linux
 - Data Structures in C
@@ -14,7 +14,7 @@
 - Become comfortable with Ubuntu and Fedora
 - Get my first job in tech
 
-## 🛠 Technologies
+## 💻 Technologies
 
 - C
 - Python
