@@ -6,12 +6,12 @@
 
 - Linux
 - Data Structures in C
-- GitHub
+- Git
 
 ## 🏆 Goals
 
 - Improve my C programming skills
-- Become comfortable with Ubuntu and Fedora
+- Become comfortable with Ubuntu
 - Get my first job in tech
 
 ## 💻 Technologies
