@@ -10,7 +10,7 @@
 
 ## 🏆 Goals
 
-- Improve my C programming skills
+- Improve my C++ programming skills
 - Become comfortable with Ubuntu
 - Get my first job in tech
 
